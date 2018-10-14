@@ -1,2 +1,2 @@
 # Address_Book
-Address book that I created when learning Java.
+This is a functional address book that I designed and created while I was learning java.
