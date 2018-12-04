@@ -9,7 +9,7 @@ public class MainDriver {
 
 	public static void main(String[] args) {
 
-		String fileName = "Project_1_johnBillingham_demo.txt";
+		String fileName = "contacts.txt";
 		String workingDirectory = System.getProperty("user.dir");
 		String filePath = workingDirectory + File.separator + fileName;
 
